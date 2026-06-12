@@ -1,1 +1,4 @@
-# llvm_tutorial_kaleidoscope
+# kaleidoscope
+
+https://llvm.org/docs/tutorial/
+
